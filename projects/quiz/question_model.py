@@ -6,4 +6,4 @@ class Question:
 
 
 new_q = Question("sd", "false")
-print(new_q.answer)
+print(new_q)
